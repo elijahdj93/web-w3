@@ -15,5 +15,5 @@ form.addEventListener('submit', handleSubmit);
 
 function mouseOver() {
 	document.getElementById("catPic")
-	alert("you doing good")
+	alert("You're doing great!")
   }

@@ -1,0 +1,11 @@
+How does the internet work?
+
+When we enter a website name lets say "google.com" this is routed to your ISP
+or internet service provider. Then this request is routed to a DNS or domain
+name service. The DNS then send the IP address back to the ISP and then thats
+sent back to the web browser. 
+
+Now your browser uses that IP to go to the correct server (google's). and then
+google server sends back the correct files from their server (html/css, javascript).
+And now your browser has a completed webpage for you to explore. This all happens
+in a mere seconds.
